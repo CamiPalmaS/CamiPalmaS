@@ -13,14 +13,13 @@ I’m currently completing my first **web development bootcamp**, where I’m le
 - Social Media Content  
 
 ### 💻 Web Development  
-- **Programming Languages**:  
-  - HTML5  
-  - CSS  
-  - JavaScript  
-- **Frameworks & Tools**:  
-  - Bootstrap 5  
-  - Node.js  
-  - PostgreSQL  
+
+<h3>Programming Languages and Frameworks</h3>  
+<p>  
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,postgres" />  
+  </a>  
+</p>    
 
 ## 🌟 Hobbies & Interests  
 - Love learning new things.  
