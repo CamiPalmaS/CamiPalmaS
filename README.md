@@ -23,7 +23,6 @@ I’m currently completing my first **web development bootcamp**, where I’m le
 
 ## 🌟 Hobbies & Interests  
 - Love learning new things.  
-- High commitment to projects and clients.  
 - Enjoy reading and trying new drawing techniques.  
 
 ## 🌱 What's Next?  
